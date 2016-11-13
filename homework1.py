@@ -7,7 +7,7 @@ if start == 'yes':
     surname = input("What is your surname?")
     birth = input("What is your date of birth?")
     adress = input("Where are you from?")
-    print ("Thank's for information! Good buy!")
+    print ("Thank's for information. Good buy!")
     
 else:
     print ("It's a pity, good buy!")
